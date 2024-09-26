@@ -1,0 +1,20 @@
+**Git** es un sistema de control de versiones distribuido creado por Linus Torvalds en 2005. Su principal objetivo es gestionar y hacer un seguimiento de los cambios en el código fuente durante el desarrollo de software. Git permite a los desarrolladores trabajar en paralelo en diferentes partes de un proyecto sin interferir entre sí, gracias a su capacidad para crear y fusionar ramas. Además, Git almacena cada versión del proyecto como una instantánea, lo que facilita la recuperación de versiones anteriores y la resolución de conflictos².
+
+**GitHub**, por otro lado, es una plataforma basada en la web que utiliza Git para el control de versiones. Fundada en 2008 y adquirida por Microsoft en 2018, GitHub ofrece un entorno colaborativo donde los desarrolladores pueden alojar sus repositorios de Git, gestionar proyectos y colaborar con otros desarrolladores. GitHub añade funcionalidades adicionales como la gestión de usuarios, la revisión de código, y la integración con otras herramientas y servicios².
+
+Una de las principales diferencias entre Git y GitHub es que **Git es una herramienta de línea de comandos** que se instala localmente en el sistema del usuario, mientras que **GitHub es un servicio en la nube** que proporciona una interfaz gráfica para gestionar repositorios de Git. Git se centra en el control de versiones y la integridad de los datos, mientras que GitHub facilita la colaboración y el alojamiento centralizado del código².
+
+Otra diferencia clave es que **Git es un software de código abierto** mantenido por la comunidad, mientras que **GitHub es una plataforma propietaria** con opciones de uso gratuito y de pago. Git no incluye características de gestión de usuarios, mientras que GitHub ofrece herramientas integradas para la gestión de equipos y la colaboración en proyectos².
+
+En resumen, **Git y GitHub son herramientas complementarias** que, cuando se utilizan juntas, proporcionan un potente entorno para el desarrollo de software. Git se encarga del control de versiones y la gestión del historial del código, mientras que GitHub facilita la colaboración y el alojamiento de repositorios en la nube. Entender las diferencias y cómo integrarlas puede mejorar significativamente el flujo de trabajo de los desarrolladores².
+
+Si necesitas más información o tienes alguna otra pregunta, ¡estaré encantado de ayudarte! 😊
+
+²: [GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-git-and-github/)
+
+Origen: Conversación con Copilot 26/9/2024
+(1) Difference Between Git and GitHub - GeeksforGeeks. https://www.geeksforgeeks.org/difference-between-git-and-github/.
+(2) Git vs GitHub: ¿Cuál es la Diferencia y cómo Empezar? - Kinsta. https://kinsta.com/es/base-de-conocimiento/git-vs-github/.
+(3) Git vs GitHub: What’s the Difference and How to Get Started ... - Kinsta. https://kinsta.com/knowledgebase/git-vs-github/.
+(4) Git vs GitHub: Which One is Right for You? - The Knowledge Academy. https://www.theknowledgeacademy.com/blog/git-vs-github/.
+(5) Top 10 differences between GitHub and Git - TechTarget. https://www.techtarget.com/searchITOperations/video/Top-differences-between-GitHub-and-Git.
