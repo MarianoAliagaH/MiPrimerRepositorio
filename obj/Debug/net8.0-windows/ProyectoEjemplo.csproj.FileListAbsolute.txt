@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\ProyectoEjemplo\bin\Debug\net8.0-windows\ProyectoEjemplo.exe
+C:\Users\Daniel\source\repos\ProyectoEjemplo\bin\Debug\net8.0-windows\ProyectoEjemplo.deps.json
+C:\Users\Daniel\source\repos\ProyectoEjemplo\bin\Debug\net8.0-windows\ProyectoEjemplo.runtimeconfig.json
+C:\Users\Daniel\source\repos\ProyectoEjemplo\bin\Debug\net8.0-windows\ProyectoEjemplo.dll
+C:\Users\Daniel\source\repos\ProyectoEjemplo\bin\Debug\net8.0-windows\ProyectoEjemplo.pdb
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.Form1.resources
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.dll
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\refint\ProyectoEjemplo.dll
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.pdb
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ProyectoEjemplo.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\ProyectoEjemplo\obj\Debug\net8.0-windows\ref\ProyectoEjemplo.dll
